@@ -1,0 +1,3 @@
+INDICATOR : San Joaquin County Population by Age Range,2010 and 2019
+SOURCE : 
+NOTES : 
