@@ -1,0 +1,3 @@
+INDICATOR : San Joaquin County Population Forecast Race and Ethnicity 
+SOURCE : UOP CBPR
+NOTES : Region's racial and ethnic make up using historical data through 2018
