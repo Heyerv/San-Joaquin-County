@@ -1,3 +1,0 @@
-INDICATOR - Population race
-SOURCE - [U.S. Census Bureau](https://www.census.gov/)
-Notes- Not Available
